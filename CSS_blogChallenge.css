@@ -1,0 +1,37 @@
+body {
+	border: 20px solid #bdc3c7;
+	font-family: Source Sans Pro;
+	margin: 20px auto;
+	padding: 0px 20px;
+	width: 60%;
+}
+
+h1 {
+	color: #2c3e50;
+	letter-spacing: 1.5px;
+	font-weight: 700;
+	text-transform: capitalize;
+}
+
+hr{
+	margin-bottom: 20px;
+	opacity: 0.5;
+}
+
+p {
+	font-weight: 400;
+	text-align: justify;
+}
+
+.date {
+	color: #3498db;
+	font-weight: 600;
+	letter-spacing: 0.2rem;
+	text-transform: uppercase;
+}
+
+.firstpar {
+	border-left: 5px solid #bdc3c7;
+	padding-left: 10px;
+}
+
