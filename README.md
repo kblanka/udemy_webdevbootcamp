@@ -1,2 +1,2 @@
 # udemy_webdevbootcamp
-Udemy: The Web Developer Bootcamp exercises and projects
+Exercises and projects I made during taking the Udemy "The Web Developer Bootcamp".
